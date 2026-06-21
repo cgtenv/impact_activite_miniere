@@ -45,4 +45,33 @@ Impacts écologiques
 biodiversité - Synthèse bibliographique et perspectives. Office français de la biodiversité.
 Rapport technique. 215 p.
 
+# Abstract
+Mining focuses on the extraction of “strategic” mineral substances, notably metals (gold, silver,
+copper, nickel, uranium, etc.), metalloids (arsenic, antimony, silicon, etc.), and fossil fuels (oil,
+natural gas, coal, lignite, etc.). The extraction of these valuable resources is now carried out on
+a massive scale, particularly to reach the growing demand associated with the energy transition
+and decarbonization. Mining operations are conducted mainly at the surface, but many sites
+are still exploited underground, while interest in deepsea resources is now rapidly increasing.
+The primary objective of this report is to provide a bibliographic, scientific, and objective
+synthesis of the environmental impacts induced by mining activities at both national and
+international scales. It therefore presents, in turn, the impacts related to: 1) deforestation; 2)
+geomorphological and hydromorphological alterations; 3) the qualitative and quantitative
+degradation of water resources; 4) pollution affecting air and soils; and finally, 5) the resulting
+damage to aquatic and terrestrial biodiversity. This work highlights the strong, increasing, and
+long-lasting nature of the damage induced by mining activities, at local, regional, and global
+scales alike. At the same time, mining activities potentially have significant social, economic,
+and health impacts. Building on these findings, the report’s second objective is to shed light on
+a complex reality in order to raise awareness and support society and all its stakeholders in
+making coherent decisions and achieving the necessary transformative change to reconcile
+essential extractive activities on the one hand with environmental and biodiversity protection
+on the other.
+
+# Keywords
+Mining
+Extraction
+Pollution
+Deforestation
+Environmental impact
+Ecological impact
+
 ![**TELECHARGER LE DOCUMENT**](assets/melun_boyer_impact_mines_2026.pdf)
