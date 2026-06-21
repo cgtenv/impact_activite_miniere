@@ -4,10 +4,10 @@
 
 # Auteurs
 **GABRIEL MELUN** (Direction de la recherche et de l’appui scientifique - DRAS)
-gabriel.melun@ofb.gouv.fr (01.45.14.88.83)
+gabriel.melun@ofb.gouv.fr
 
 **PIERRE BOYER** (Direction de la Police et du permis de chasser - DPPC)
-pierre.boyer@ofb.gouv.fr (01.45.14.88.93)
+pierre.boyer@ofb.gouv.fr
 
 # Résumé
 Les mines s’intéressent à l’extraction de substances minérales / stratégiques 0, notamment les
