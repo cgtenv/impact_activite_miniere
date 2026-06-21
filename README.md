@@ -1,4 +1,6 @@
-![assets/](assets/cover_page.PNG)
+[![](assets/cover_page.PNG)]](assets/melun_boyer_impact_mines_2026.pdf)
+
+![**TELECHARGER LE DOCUMENT**](assets/melun_boyer_impact_mines_2026.pdf)
 
 # Auteurs
 **GABRIEL MELUN** (Direction de la recherche et de l’appui scientifique - DRAS)
@@ -42,3 +44,5 @@ Impacts écologiques
 **Melun G. & Boyer P.** (2026). Panorama de l’impact des activités minières sur les milieux et la
 biodiversité - Synthèse bibliographique et perspectives. Office français de la biodiversité.
 Rapport technique. 215 p.
+
+![**TELECHARGER LE DOCUMENT**](assets/melun_boyer_impact_mines_2026.pdf)
