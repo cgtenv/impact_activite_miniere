@@ -1,4 +1,4 @@
-[![](assets/cover_page.PNG)]](assets/melun_boyer_impact_mines_2026.pdf)
+[![](assets/cover_page.PNG)](assets/melun_boyer_impact_mines_2026.pdf)
 
 ![**TELECHARGER LE DOCUMENT**](assets/melun_boyer_impact_mines_2026.pdf)
 
