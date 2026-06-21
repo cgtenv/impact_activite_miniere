@@ -33,12 +33,12 @@ nécessaire pour concilier les nécessaires activités extractives d’une part,
 l’environnement et de la biodiversité d’autre part.
 
 # Mots-clefs
-Mine
-Extraction
-Pollution
-Déforestation
-Impacts environnementaux
-Impacts écologiques
+- Mine
+- Extraction
+- Pollution
+- Déforestation
+- Impacts environnementaux
+- Impacts écologiques
 
 # Citation du document
 **Melun G. & Boyer P.** (2026). Panorama de l’impact des activités minières sur les milieux et la
@@ -67,11 +67,11 @@ essential extractive activities on the one hand with environmental and biodivers
 on the other.
 
 # Keywords
-Mining
-Extraction
-Pollution
-Deforestation
-Environmental impact
-Ecological impact
+- Mining
+- Extraction
+- Pollution
+- Deforestation
+- Environmental impact
+- Ecological impact
 
 ![**TELECHARGER LE DOCUMENT**](assets/melun_boyer_impact_mines_2026.pdf)
